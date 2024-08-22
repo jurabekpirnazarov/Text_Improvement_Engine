@@ -1,23 +1,8 @@
-# Transformers library for pre-trained language models
 transformers==4.32.0
-
-# PyTorch for model loading and inference
 torch==2.0.1
-
-# Scikit-learn for cosine similarity and other utility functions
 scikit-learn==1.2.2
-
-# Numpy for numerical operations
 numpy==1.24.3
-
-# Pandas for data manipulation (if needed)
 pandas==2.0.3
-
-# Streamlit for building a simple web interface (if using)
-streamlit==1.25.0
-
-# Flask for an alternative web interface (optional)
-Flask==3.0.0
-
-# tqdm for progress bars (optional but useful)
+streamlit==1.25.0  
+Flask==3.0.0  
 tqdm==4.65.0
