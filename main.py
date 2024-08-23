@@ -3,7 +3,7 @@ import spacy
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-# Load spaCy language model (replace 'en_core_web_sm' with a larger model if needed)
+# Load spaCy language model
 nlp = spacy.load('en_core_web_sm')
 
 # Streamlit app
