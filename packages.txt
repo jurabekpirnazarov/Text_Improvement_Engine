@@ -1,0 +1,5 @@
+build-essential
+gcc
+libssl-dev
+libffi-dev
+python3-dev
